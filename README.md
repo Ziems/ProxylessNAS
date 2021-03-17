@@ -1,4 +1,4 @@
-# ProxylessNAS
+# Proxyless Neural Architecture Search
 
 This is my implementation of [ProxylessNAS](https://arxiv.org/pdf/1812.00332.pdf) by Cai et al.
 
